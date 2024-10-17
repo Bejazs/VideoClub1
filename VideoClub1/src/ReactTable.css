@@ -1,0 +1,12 @@
+/* Example CSS for a simple table */
+.ReactTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .ReactTable th, .ReactTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  

@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/df00b686-2421-4548-b064-9c36f88d9106/resourceGroups/moviedemoapireactive/providers/Microsoft.Web/sites/moviedemoapireactive",
+    "appService.deploySubpath": "VideoClub1\\dist"
+}
